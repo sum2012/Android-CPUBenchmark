@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string about_test
+string app_name
+string cores_used
+string cpu_cores
+string cpu_type
+string device_info
+string device_model
+string multi_core_utilization
+string multi_thread_description
+string multi_thread_test
+string parallel_efficiency
+string performance_comparison
+string relative_to_single_thread
+string score
+string single_thread_description
+string single_thread_test
+string speedup
+string speedup_description
+string stop_test
+string test_content
+string test_results
+string theoretical_performance
+string time_taken
+style Theme.CPUBenchmark

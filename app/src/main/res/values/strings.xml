@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CPU Benchmark</string>
+    <string name="single_thread_test">單線程測試</string>
+    <string name="multi_thread_test">多線程測試</string>
+    <string name="stop_test">停止測試</string>
+    <string name="device_info">設備信息</string>
+    <string name="device_model">設備型號</string>
+    <string name="cpu_cores">CPU核心數</string>
+    <string name="cpu_type">CPU類型</string>
+    <string name="test_results">測試結果</string>
+    <string name="score">得分</string>
+    <string name="time_taken">耗時</string>
+    <string name="cores_used">使用的核心數</string>
+    <string name="performance_comparison">性能對比</string>
+    <string name="speedup">加速比</string>
+    <string name="parallel_efficiency">並行效率</string>
+    <string name="multi_core_utilization">多核利用率</string>
+    <string name="relative_to_single_thread">相對於單線程</string>
+    <string name="theoretical_performance">理論性能百分比</string>
+    <string name="about_test">關於測試</string>
+    <string name="single_thread_description">單線程測試：使用單一CPU核心進行計算，評估單核性能</string>
+    <string name="multi_thread_description">多線程測試：使用所有CPU核心並行計算，評估多核性能</string>
+    <string name="test_content">測試內容：斐波那契數列、矩陣乘法、蒙特卡洛模擬、質數計算</string>
+    <string name="speedup_description">加速比：多線程相對於單線程的性能提升倍數</string>
+</resources>
